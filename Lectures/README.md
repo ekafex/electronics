@@ -15,3 +15,5 @@ Më poshtë gjeni info mbi simbolet bazike më të përdorura, llojet e rezisten
 # Kondensatorët bazike
 
 <img src="figs/iii.svg" align="center" width=1000 style="margin-left:auto; margin-right:auto"/>
+
+Figurat e marra nga libri: **"Practical Electronics for Inventors"**, Scherz & Monk, fourth edition, 2016
