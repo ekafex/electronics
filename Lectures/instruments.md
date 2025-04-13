@@ -18,7 +18,7 @@
 
 
 
-<img src="figs/Instruments/Oscilloscope_Clean.svg" alt="schem" Width=1100 />
+<img src="figs/Instruments/Oscilloscope_Clean.svg" alt="skik" style="zoom:200%;" />
 
 
 
