@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:version="0.46" sodipodi:docname="FET-Typen (mit Schaltbildern).svg" sodipodi:version="0.32" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 875 375"
+	 style="enable-background:new 0 0 875 375;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#path31_1_);stroke:#000000;stroke-linecap:square;stroke-miterlimit:10;}
+	.st1{font-family:'DejaVuSansMonoForPowerline';}
+	.st2{font-size:15px;}
+	.st3{fill:#99CC00;stroke:#000000;stroke-linecap:square;stroke-miterlimit:10;}
+	.st4{font-size:13px;}
+	.st5{fill:url(#rect81_1_);stroke:#000000;stroke-linecap:square;stroke-miterlimit:10;}
+	.st6{fill:url(#rect109_1_);stroke:#000000;stroke-linecap:square;stroke-miterlimit:10;}
+	.st7{fill:url(#rect123_1_);stroke:#000000;stroke-linecap:square;stroke-miterlimit:10;}
+	.st8{fill:#FFCC00;stroke:#000000;stroke-linecap:square;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st10{stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st11{fill:#555753;}
+	.st12{font-family:'ArialMT';}
+	.st13{font-size:15.083px;}
+	.st14{fill:url(#rect95_1_);stroke:#000000;stroke-linecap:square;stroke-miterlimit:10;}
+	.st15{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+	.st16{fill:#FFFFFF;stroke:#000000;stroke-width:1;stroke-linecap:round;}
+	.st17{font-size:23.6727px;}
+	.st18{font-size:18.2098px;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" gridtolerance="10.0" guidetolerance="10.0" id="base" inkscape:current-layer="svg2" inkscape:cx="314.15221" inkscape:cy="188.1268" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="938" inkscape:window-width="1280" inkscape:window-x="-4" inkscape:window-y="-4" inkscape:zoom="1.4078478" objecttolerance="10.0" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<linearGradient id="path31_1_" gradientUnits="userSpaceOnUse" x1="512.9266" y1="696.3342" x2="722.2441" y2="696.3342" gradientTransform="matrix(1 0 0 -1 80 736)">
+	<stop  offset="0" style="stop-color:#99CCFF"/>
+	<stop  offset="1" style="stop-color:#3366FF"/>
+</linearGradient>
+<path id="path31" class="st0" d="M488.3,39.7l31.4-24.5h251.2l31.4,24.5l-31.4,24.5H519.7L488.3,39.7z"/>
+<text id="text35" transform="matrix(1 0 0 1 560.6099 43.804)" class="st1 st2">Unipolar Transistors</text>
+<rect id="rect43" x="393.8" y="93.5" class="st3" width="115" height="37.1"/>
+<text id="text47" transform="matrix(1 0 0 1 427.77 115.2583)" class="st1 st4">MOSFET</text>
+<rect id="rect57" x="180" y="157.1" class="st3" width="80" height="30"/>
+<text id="text61" transform="matrix(1 0 0 1 184.78 175.2582)" class="st1 st4">p-Channel</text>
+<rect id="rect69" x="440" y="157.1" class="st3" width="80" height="30"/>
+<text id="text73" transform="matrix(1 0 0 1 444.78 175.2585)" class="st1 st4">n-Channel</text>
+<linearGradient id="rect81_1_" gradientUnits="userSpaceOnUse" x1="258.5" y1="141" x2="389.5" y2="141" gradientTransform="matrix(-1 0 0 -1 564 376)">
+	<stop  offset="0" style="stop-color:#99CC00"/>
+	<stop  offset="1" style="stop-color:#99CC00;stop-opacity:0"/>
+</linearGradient>
+<rect id="rect81" x="175" y="216.4" class="st5" width="130" height="37.1"/>
+<text id="text99" transform="matrix(1 0 0 1 185.2135 238.1844)" class="st1 st4">Depletion-Mode</text>
+<linearGradient id="rect109_1_" gradientUnits="userSpaceOnUse" x1="334.5" y1="141" x2="465.5" y2="141" gradientTransform="matrix(1 0 0 -1 0 376)">
+	<stop  offset="0" style="stop-color:#99CC00"/>
+	<stop  offset="1" style="stop-color:#99CC00;stop-opacity:0"/>
+</linearGradient>
+<rect id="rect109" x="335" y="216.4" class="st6" width="130" height="37.1"/>
+<text id="text113" transform="matrix(1 0 0 1 337.3867 238.1848)" class="st1 st4">Enhancement-Mode</text>
+<linearGradient id="rect123_1_" gradientUnits="userSpaceOnUse" x1="578.5" y1="141" x2="709.5" y2="141" gradientTransform="matrix(-1 0 0 -1 1204 376)">
+	<stop  offset="0" style="stop-color:#99CC00"/>
+	<stop  offset="1" style="stop-color:#99CC00;stop-opacity:0"/>
+</linearGradient>
+<rect id="rect123" x="495" y="216.4" class="st7" width="130" height="37.1"/>
+<text id="text127" transform="matrix(1 0 0 1 505.2134 238.1841)" class="st1 st4">Depletion-Mode</text>
+<rect id="rect209" x="666.2" y="93.5" class="st8" width="115" height="37.1"/>
+<text id="text213" transform="matrix(1 0 0 1 708.0967 115.2585)" class="st1 st4">JFET</text>
+<rect id="rect223" x="655" y="156" class="st8" width="80" height="30"/>
+<text id="text227" transform="matrix(1 0 0 1 659.78 174.1846)" class="st1 st4">p-Channel</text>
+<rect id="rect235" x="775" y="156" class="st8" width="80" height="30"/>
+<text id="text239" transform="matrix(1 0 0 1 779.78 174.1843)" class="st1 st4">n-Channel</text>
+<path id="path245" d="M566.2,64.2v12.6h-115h-0.5v0.4v15.6h1V77.6h115h0.5v-0.4V64.2H566.2z"/>
+<path id="path247" d="M723.2,64.2v28.6h1V64.2H723.2z"/>
+<path id="path249" d="M694.5,130.6v25.7h1.1v-25.7H694.5z"/>
+<path id="path251" d="M752,130.6v15.8v0.4h0.5h62v9.2h1v-9.6V146H815h-62v-15.4H752z"/>
+<path id="path253" d="M479.5,130.6V157h1v-26.4H479.5z"/>
+<path id="path255" d="M422,130.6v12.8H220h-0.5v0.4V157h1v-12.8h202h0.5v-0.4v-13.2H422z"/>
+<path id="path257" d="M239.5,187.1v29.3h1v-29.3H239.5z"/>
+<path id="path259" d="M199.5,187.1V200H80h-0.5v0.4v16h1v-15.5H200h0.5v-0.4v-13.4H199.5z"/>
+<path id="path261" d="M459.5,187.1V200H400h-0.5v0.4v16h1v-15.5H460h0.5v-0.4v-13.4H459.5z"/>
+<path id="path263" d="M499.5,187.1v13.4v0.4h0.5h59.5v15.5h1v-16V200H560h-59.5v-12.9H499.5z"/>
+<g id="g2974">
+	<g id="g7107" transform="matrix(0.5396535,0,0,0.5386801,478.8322,247.32765)">
+		<path id="path7109" class="st9" d="M627.4,85.3v88.6"/>
+		<path id="path7111" class="st9" d="M626.8,149.8H557"/>
+		<path id="path7117" class="st10" d="M622.4,149.6l-32.4-9.3v18.6L622.4,149.6z"/>
+		<path id="path8089" class="st9" d="M667.1,149.8h-39.4"/>
+		<path id="path8091" class="st9" d="M667.2,149.7V200"/>
+		<path id="path8093" class="st9" d="M667.1,110.4h-39.4"/>
+		<path id="path8095" class="st9" d="M667.2,110.5V60.2"/>
+	</g>
+	<g id="g2190" transform="matrix(0.5396535,0,0,0.5386801,757.20172,240.47533)">
+		<text transform="matrix(1.8564 0 0 1.8564 30.7913 154.614)" class="st11 st12 st13">G</text>
+		<text transform="matrix(1.8564 0 0 1.8564 155.441 91.3952)" class="st11 st12 st13">D</text>
+		<text transform="matrix(1.8564 0 0 1.8564 157.6307 214.4771)" class="st11 st12 st13">S</text>
+	</g>
+</g>
+<g id="g2959">
+	<path id="path8099" class="st9" d="M697.4,293.3V341"/>
+	<path id="path8101" class="st9" d="M697.1,328h-37.7"/>
+	<path id="path8103" class="st10" d="M672.2,327.9l17.5-5v10L672.2,327.9z"/>
+	<path id="path8105" class="st9" d="M718.8,328h-21.2"/>
+	<path id="path8107" class="st9" d="M718.9,327.9v27.1"/>
+	<path id="path8109" class="st9" d="M718.8,306.8h-21.2"/>
+	<path id="path8111" class="st9" d="M718.9,306.9v-27.1"/>
+	<text transform="matrix(1.0018 0 0 1 650.3174 323.7959)" class="st11 st12 st13">G</text>
+	<text transform="matrix(1.0018 0 0 1 720.6766 289.7412)" class="st11 st12 st13">D</text>
+	<text transform="matrix(1.0018 0 0 1 720.6767 356.043)" class="st11 st12 st13">S</text>
+</g>
+<linearGradient id="rect95_1_" gradientUnits="userSpaceOnUse" x1="14.5" y1="141" x2="145.5" y2="141" gradientTransform="matrix(1 0 0 -1 0 376)">
+	<stop  offset="0" style="stop-color:#99CC00"/>
+	<stop  offset="1" style="stop-color:#99CC00;stop-opacity:0"/>
+</linearGradient>
+<rect id="rect95" x="15" y="216.4" class="st14" width="130" height="37.1"/>
+<text id="text85" transform="matrix(1 0 0 1 17.3869 238.1842)" class="st1 st4">Enhancement-Mode</text>
+<g id="g3951">
+	<path id="path10143" class="st15" d="M79.4,308.2v18.2"/>
+	<path id="path10145" class="st10" d="M112.8,317l-17.5-5v10L112.8,317z"/>
+	<path id="path10147" class="st15" d="M100.8,294.6H79.4"/>
+	<path id="path10149" class="st15" d="M100.9,294.7v-22.6"/>
+	<path id="path10151" class="st15" d="M100.8,339.9c-7.1,0-14.3,0-21.4,0"/>
+	<path id="path10153" class="st9" d="M100.9,340.1v22.6"/>
+	<path id="path10155" class="st9" d="M107.2,317.1H79.6"/>
+	<path id="path10157" class="st9" d="M72.4,340H51.2"/>
+	<path id="path10159" class="st15" d="M72.4,340l0.1-45.6"/>
+	<a id="a7431">
+		<path id="path10161" class="st15" d="M79.4,331.5c0,2.8,0,5.6,0,8.5"/>
+	</a>
+	<path id="path10163" class="st15" d="M79.4,294.6l0,8.9"/>
+	<text transform="matrix(1.0018 0 0 1 37.3716 335.4902)" class="st11 st12 st13">G</text>
+	<text transform="matrix(1.0018 0 0 1 104.0356 281.8408)" class="st11 st12 st13">D</text>
+	<text transform="matrix(1.0018 0 0 1 104.0356 363.6455)" class="st11 st12 st13">S</text>
+	<text transform="matrix(1.0018 0 0 1 119.9858 321.8398)" class="st11 st12 st13">B</text>
+</g>
+<g id="g3932">
+	<path id="path9130" class="st9" d="M239.4,293.5v47.7"/>
+	<path id="path9132" class="st10" d="M272.2,317l-17.5-5v10L272.2,317z"/>
+	<path id="path9134" class="st9" d="M260.8,294.6h-21.2"/>
+	<path id="path9136" class="st9" d="M260.9,294.7v-22.6"/>
+	<path id="path9138" class="st9" d="M260.8,340.2h-21.2"/>
+	<path id="path9140" class="st9" d="M260.9,340.1v22.6"/>
+	<path id="path9142" class="st9" d="M268.1,317.1h-28.5"/>
+	<path id="path9144" class="st9" d="M232.4,340h-21.2"/>
+	<path id="path9146" class="st9" d="M232.5,340v-45.6"/>
+	<text transform="matrix(1.0018 0 0 1 197.3716 335.4902)" class="st11 st12 st13">G</text>
+	<text transform="matrix(1.0018 0 0 1 263.4956 281.8408)" class="st11 st12 st13">D</text>
+	<text transform="matrix(1.0018 0 0 1 263.4956 363.6455)" class="st11 st12 st13">S</text>
+	<text transform="matrix(1.0018 0 0 1 279.146 321.8398)" class="st11 st12 st13">B</text>
+</g>
+<g id="g3911">
+	<path id="path9150" class="st9" d="M399.4,308.2v18.2"/>
+	<path id="path9152" class="st10" d="M404.4,317l17.5-5v10L404.4,317z"/>
+	<path id="path9154" class="st9" d="M420.8,294.6h-21.2"/>
+	<path id="path9156" class="st9" d="M420.9,294.7v-22.6"/>
+	<path id="path9158" class="st9" d="M420.8,340.2h-21.2"/>
+	<path id="path9160" class="st9" d="M420.9,340.1v22.6"/>
+	<path id="path9162" class="st9" d="M433.5,317.1h-18.9"/>
+	<path id="path9164" class="st9" d="M392.4,340h-21.2"/>
+	<path id="path9166" class="st9" d="M392.5,340v-45.6"/>
+	<path id="path9168" class="st9" d="M399.4,331.5v9.7"/>
+	<path id="path9170" class="st9" d="M399.4,293.5v10"/>
+	<text transform="matrix(1.0018 0 0 1 357.3716 335.4902)" class="st11 st12 st13">G</text>
+	<text transform="matrix(1.0018 0 0 1 424.0861 281.8408)" class="st11 st12 st13">D</text>
+	<text transform="matrix(1.0018 0 0 1 424.086 363.6455)" class="st11 st12 st13">S</text>
+	<text transform="matrix(1.0018 0 0 1 435.2131 321.8398)" class="st11 st12 st13">B</text>
+</g>
+<g id="g3892">
+	<path id="path9084" class="st9" d="M559.4,293.5v47.7"/>
+	<path id="path9088" class="st10" d="M564.4,317l17.5-5v10L564.4,317z"/>
+	<path id="path9094" class="st9" d="M580.8,294.6h-21.2"/>
+	<path id="path9096" class="st9" d="M580.9,294.7v-22.6"/>
+	<path id="path9098" class="st9" d="M580.8,340.2h-21.2"/>
+	<path id="path9100" class="st9" d="M580.9,340.1v22.6"/>
+	<path id="path9102" class="st9" d="M594.3,317.1h-16"/>
+	<path id="path9104" class="st9" d="M552.4,340h-21.2"/>
+	<path id="path9106" class="st9" d="M552.5,340v-45.6"/>
+	<text transform="matrix(1.0018 0 0 1 517.3711 335.4902)" class="st11 st12 st13">G</text>
+	<text transform="matrix(1.0018 0 0 1 583.2131 281.8408)" class="st11 st12 st13">D</text>
+	<text transform="matrix(1.0018 0 0 1 583.2131 363.6455)" class="st11 st12 st13">S</text>
+	<text transform="matrix(1.0018 0 0 1 595.9852 322.0413)" class="st11 st12 st13">B</text>
+</g>
+<g>
+	<rect id="rect3973" x="17.1" y="10.1" class="st16" width="122.7" height="125.7"/>
+	<text transform="matrix(1 0 0 1 22.2559 37.2646)" class="st1 st17">Legend</text>
+	<text transform="matrix(1 0 0 1 24.0396 67.9624)" class="st1 st18">B - Body</text>
+	<text transform="matrix(1 0 0 1 24.0396 86.1719)" class="st1 st18">D - Drain</text>
+	<text transform="matrix(1 0 0 1 24.0396 104.3818)" class="st1 st18">G - Gate</text>
+	<text transform="matrix(1 0 0 1 24.0396 122.5918)" class="st1 st18">S - Source</text>
+</g>
+</svg>
