@@ -1,0 +1,5 @@
+<svg width="86mm" height="127mm" version="1.1" viewBox="0 0 86 127" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><rect width="86" height="127" fill="#fff"/><path d="m44 100 4-1l-1-4 6 7z"/>
+ <g font-family="Times" font-size="10px"><text x="55" y="109">E</text><text x="55" y="79">C</text><text x="21" y="88">B</text>
+ <g font-size="13px" font-style="italic"><text x="64" y="74">V<tspan dy="2" font-size="9px" font-style="normal">out</tspan></text><text y="99">V<tspan dy="2" font-size="9px" font-style="normal">in</tspan></text><text x="31" y="41">R<tspan dy="2" font-size="8px" font-style="normal">C</tspan></text><text x="46" y="10">V<tspan dy="2" font-size="9px">+</tspan></text></g></g>
+ <g stroke="#000" fill="none"><path d="m44 15h18m-9 46h17m-17-46l-1e-6 13-4 2 8 4-8 4 8 4-8 4 8 4-4 2 0 26-14 8m14 39 0-23-14-8m0-4h-25"/><path d="m44 126h18m-23-46v20" stroke-width="2"/><circle cx="44" cy="90" r="15" stroke-width="2"/> <circle cx="14" cy="90" r="3" fill="#fff"/><circle cx="70" cy="61" r="3" fill="#fff"/></g>
+  <circle cx="53" cy="15" r="2"/> <circle cx="53" cy="61" r="2"/></svg>
